@@ -17,9 +17,10 @@ h3{
     color:brown;
 }
 .food-image{
+    display: block;
     height: 400px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+    margin: 0 auto;
     margin-bottom: 100px;
+    border: 10px;
+    border-color: brown;
 }
