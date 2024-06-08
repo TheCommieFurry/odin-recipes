@@ -24,3 +24,7 @@ h3{
     border: 10px;
     border-color: brown;
 }
+.list-box{
+    color: lightsalmon;
+    display:block;
+}
